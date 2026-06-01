@@ -27,4 +27,4 @@ Tech stack: discord.py, supabase
 
 PFP Credits: I2IU on vgen
 
-If there are issues, please join this server
+If there are issues, please join this server: https://discord.gg/QtttZaqzuM
