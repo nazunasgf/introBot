@@ -2,7 +2,7 @@
 
 A bot that stores you introductions so you can simply fetch the one you want when you join a new server.
 
-Invite link: https://discord.com/oauth2/authorize?client_id=1456751137427423324
+Invite link: [https://discord.com/oauth2/authorize?client_id=1456751137427423324](https://discord.com/oauth2/authorize?client_id=1456751137427423324&permissions=0&integration_type=0&scope=bot+applications.commands)
 
 Commands
 ``/set_intro`` 
