@@ -1,4 +1,4 @@
-IntroBot
+**IntroBot**
 
 A bot that stores you introductions so you can simply fetch the one you want when you join a new server.
 
